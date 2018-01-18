@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "BlobStorageAccountname":"",
+    "BlobStorageAccountKey":"",
+    "BlobStorageContainername":"",
+    "ShopifyAlias-Retail": "",
+    "ShopifyPassword-Retail": "",
+    "ShopifyUsername-Retail": "",
+    "StatusFilename-Retail":"",
+    "OrdersFilename-Retail":"",
+    "ShopifyAlias-Admissions": "",
+    "ShopifyPassword-Admissions": "",
+    "ShopifyUsername-Admissions": "",
+    "StatusFilename-Admissions":"",
+    "OrdersFilename-Admissions":""
+  }
+}
